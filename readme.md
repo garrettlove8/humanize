@@ -1,4 +1,5 @@
 # Humanize Library
+Humanize is an adaptive UX library that emphasizes the "Human" element in both web and app design. The main goal is to always be on the leading edge of design trends and usability.
 
 ## Table of Contents:
 1. Reset
